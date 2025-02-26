@@ -4,8 +4,6 @@
 ## About Me
 - 🔭 I’m currently studying on **Prince of Songkla University**  
 - 🌱 I’m learning **Full Stack & Machine Learning & Data Visualization**  
-- 💬 Ask me about **Python, SQL, React, and Git**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
