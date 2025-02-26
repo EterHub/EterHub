@@ -15,7 +15,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eter&layout=compact&theme=radical)
 
 ## 🎵 Now Playing
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="175" 
-style="width:100%;max-width:660px;overflow:hidden;background:transparent;" 
-sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" 
-src="https://embed.music.apple.com/us/album/toxic-til-the-end/your-album-id"></iframe>
+[![Toxic Til the End - Apple Music](https://music.apple.com/us/album/toxic-til-the-end/your-album-id)](https://music.apple.com/us/album/toxic-til-the-end/your-album-id)
+
