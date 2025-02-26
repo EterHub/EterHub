@@ -15,5 +15,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eter&layout=compact&theme=radical)
 
 ## 🎵 Now Playing  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31mwefkgguysa3p6swzeo6oqf3ny)
 
