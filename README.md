@@ -3,7 +3,7 @@
 
 ## About Me
 - 🔭 I’m currently studying on **Prince of Songkla University**  
-- 🌱 I’m learning **Full Stack & Machine Learning & Data Visualization**  
+- 🌱 I’m learning **React Vite & Next.js & Express**  
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
