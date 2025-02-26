@@ -14,6 +14,6 @@
 ![Eter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eter&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eter&layout=compact&theme=radical)
 
-## 🎵 Now Playing
-[![Toxic Til the End - Apple Music](https://music.apple.com/us/album/toxic-til-the-end/your-album-id)](https://music.apple.com/us/album/toxic-til-the-end/your-album-id)
+## 🎵 Now Playing  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
