@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Eter  
-🚀 Developer | 💡 Problem Solver | 📊 Data Enthusiast  
+🚀 Developer | 📚 Read | 🎮 Enjoy | 🎸 Play
 
 ## About Me
 - 🔭 I’m currently studying on **Prince of Songkla University**  
