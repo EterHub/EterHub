@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Eter  
 🚀 Developer | 💡 Problem Solver | 📊 Data Enthusiast  
 
-ฃ## About Me
-- 🔭 I’m currently working on **Machine Learning & Data Visualization**  
-- 🌱 I’m learning **Cloud Computing & DevOps**  
+## About Me
+- 🔭 I’m currently studying on **Prince of Songkla University**  
+- 🌱 I’m learning **Full Stack & Machine Learning & Data Visualization**  
 - 💬 Ask me about **Python, SQL, React, and Git**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
 
@@ -17,4 +17,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eter&layout=compact&theme=radical)
 
 ## 🎵 Now Playing  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Toxic Til the End - Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&redirect=true)](https://open.spotify.com/track/YOUR_TRACK_ID)
+
