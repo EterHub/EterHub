@@ -11,8 +11,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 
 ## 📊 GitHub Stats
-![Eter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eter&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eter&layout=compact&theme=radical)
+![Eter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EterHub&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EterHub&layout=compact&theme=radical)
 
 ## 🎵 Now Playing  
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31mwefkgguysa3p6swzeo6oqf3ny)
